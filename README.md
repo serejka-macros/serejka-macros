@@ -22,6 +22,6 @@
 ---
 ## 📂 Проекты
 
-- [PortfolioSite](https://serejka-macros.github.io/bio-site/) — мой персональный сайт.
+- [BioSite](https://serejka-macros.github.io/bio-site/) — мой персональный сайт.
 
 ---
