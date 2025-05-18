@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Сергей! 👋 (aka **macros**)
 
-<!--
-**serejka-macros/serejka-macros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4caf50&background=00000000&width=500&lines=Привет,+я+Сергей!;Добро+пожаловать+в+мой+GitHub;Рад+тебя+видеть!)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Обо мне
+
+- Меня зовут Сергей, в сети я — **macros**.
+- Я увлечён разработкой, особенно веб-технологиями и мобильными приложениями.
+- Люблю писать чистый, читаемый и поддерживаемый код.
+- Постоянно изучаю новые технологии и практики.
+
+---
+
+## 📂 Проекты
+
+---
+
+_Спасибо за посещение!_
+
