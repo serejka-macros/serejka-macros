@@ -1,6 +1,6 @@
 # Привет, я Сергей!  (a.k.a **macros**)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=300&color=4caf50&background=00000000&width=500&lines=;Добро+пожаловать+в+мой+GitHub;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=4caf50&background=00000000&width=500&lines=;Добро+пожаловать+в+мой+GitHub;)
 
 ---
 
