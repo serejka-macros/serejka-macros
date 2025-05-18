@@ -21,6 +21,6 @@
 ---
 ## 📂 Проекты
 
-- [BioSite](https://serejka-macros.github.io/bio-site/) — мой персональный сайт.
-- [RentSite](https://myrealestate.great-site.net/?i=1) — мой сайт по аренде недвижимости. 
+- [BioSite](https://serejka-macros.github.io/bio-site/) — мой персональный сайт 📌
+- [RentSite](https://myrealestate.great-site.net/?i=1) — сайт по аренде недвижимости 🌆
 ---
