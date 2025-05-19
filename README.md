@@ -23,5 +23,6 @@
 
 - [BioSite](https://serejka-macros.github.io/bio-site/) — мой персональный сайт 📌
 - [RentSite](https://myrealestate.great-site.net/?i=1) — сайт по аренде недвижимости 🌆
-- 🕹️ [CatDoom](https://github.com/serejka-macros/CatDoom) — динамичный проект, собранный на Unity
+- 💰 [Finance Manager](https://github.com/serejka-macros/Finance-Manager) - приложение для учёта личных финансов 💸
+- 🕹️ [CatDoom](https://github.com/serejka-macros/CatDoom) — динамичный проект, собранный на Unity 🎮
 ---
